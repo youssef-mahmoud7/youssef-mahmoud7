@@ -79,9 +79,27 @@ I am a Computer Science undergrad (FCI Tanta University) with a unique engineeri
 > **The Problem:** Libraries need offline, lightweight systems to track book borrowing and student attendance without relying on external servers or active internet.
 > 
 > **The Solution:** Engineered a standalone ESP32 system using **LittleFS** and an **SD Card** to host a fully responsive local Front-End. Integrated hardware **RFID** for student tracking and an HTML5-based camera barcode scanner for inventory.
+>
+> **The Impact:** Delivered a seamless, hardware-constrained web application demonstrating full-stack architecture, memory optimization, and offline IoT capabilities.
+---
 
 ---
 
+<br>
+
+---
+
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef-mahmoud7&color=2F80ED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h2> Ready to architect scalable solutions?</h2>
+  <p><i>"From the physical constraints of the ESP32 to the limitless potential of the Web."</i></p>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=youssef-mahmoud7&color=2F80ED&style=for-the-badge&label=UNIQUE+PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br><br>
+  
+  <code>System Status: Online</code> • <code>Architecture: Full-Stack IoT</code> • <a href="mailto:https://t.me/Wow_Is_this_a_mention"><code>Initiate Handshake (Contact)</code></a>
 </div>
