@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/youssef-mahmoud7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Yousef+Mahmoud;Computer+Science+Undergrad+@+FCI;C%2B%2B+%7C+Problem+Solving+%7C+Python;Front-End+%7C+JavaScript+%7C+SEO;ESP32+%7C+Embedded+Systems+%7C+IoT&v=3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Youssef+Mahmoud;Computer+Science+Undergrad+@+FCI;C%2B%2B+%7C+Problem+Solving+%7C+Python;Front-End+%7C+JavaScript+%7C+SEO;ESP32+%7C+Embedded+Systems+%7C+IoT&v=3" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,9 +50,7 @@ I am a Computer Science undergrad (FCI Tanta University) with a unique engineeri
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssef-mahmoud7&theme=monokai&no-frame=true&no-bg=true&margin-w=15&v=5" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-mahmoud7&bg_color=151515&color=2F80ED&line=2F80ED&point=ffffff&area=true&hide_border=true&title_color=ffffff" alt="Activity Graph" />
 </div>
 
 <br>
