@@ -101,5 +101,5 @@ I am a Computer Science undergrad (FCI Tanta University) with a unique engineeri
   
   <br><br>
   
-  <code>System Status: Online</code> • <code>Architecture: Full-Stack IoT</code> • <a href="mailto:https://t.me/Wow_Is_this_a_mention"><code>Initiate Handshake (Contact)</code></a>
+  <code>System Status: Online</code> • <code>Architecture: Full-Stack IoT</code> • <a href="https://t.me/Wow_Is_this_a_mention"><code>Initiate Handshake (Contact)</code></a>
 </div>
