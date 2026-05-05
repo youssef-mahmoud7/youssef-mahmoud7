@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:youssef.elhaw07@gmail.com
+  <a href="youssef.elhaw07@gmail.com
 ">
     <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email">
   </a>
